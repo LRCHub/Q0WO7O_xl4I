@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Exercise the Right",
+  "base_artist": "キングヘイロー (CV. 佐伯伊織)",
+  "createdAt": "2026-02-09T13:34:35.178898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Exercise the Right",
+      "artist": "キングヘイロー(佐伯伊織)",
+      "has_synced": false,
+      "path": "select/pl_01_Exercise_the_Right_キングヘイロー(佐伯伊織).txt"
+    }
+  ]
+}
